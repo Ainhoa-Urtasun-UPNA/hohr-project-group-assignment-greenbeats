@@ -42,11 +42,29 @@ These activities are mainly routine tasks.
 ***
 ### Managers
 * ONET-SOC code and title:
+* 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score: 77
+* Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score: 76
+* Direct administrative activities directly related to making products or providing services. Score: 75
+* Prepare staff work schedules and assign specific duties. Score: 73
+* Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score: 72
+* Is this job routine? Your judgment (0-10): 4
+* We consider that a manager needs to face different challenges everyday depending on the company's situation, since they direct and coordinate the business activities. However, there are some tasks which may be classified as routine such as reviewing financial statements or sales reports. Staff work schedules may be changed every week depending on the company's performance and needs.
+* Is this job cognitive? Your judgment (0-10): 8
+* Managers need a previous high, specific education to be able to perform their tasks, whether in management, finance or human resources. Moreover, knowledge on the company’s main activity is required. Furthermore, a good manager will have to learn new methods and the daily functioning of the certain company he works at, in order to improve his management skills. For all these reasons, social perceptiveness is required, as well as judgement and decision-making, skills and tasks that require cognitive thinking. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill. Score: 75   	
+* Coordination — Adjusting actions in relation to others' actions. Score: 75  
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. Score: 75
+* Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill. Score: 75   	
+* Speaking — Talking to others to convey information effectively. Score: 75
 * 5 technology skills:
+* Accounting software — Fund accounting software; Intuit QuickBooks Hot technology ; Sage 50 Accounting; Tax softwareSee more occupations related to this technology.
+* Analytical or scientific software — IBM SPSS Statistics Hot technology ; Minitab Hot technology ; SAS Hot technology ; The MathWorks MATLAB Hot technology
+* Business intelligence and data analysis software — IBM Cognos Impromptu Hot technology ; Oracle Business Intelligence Enterprise Edition Hot technology ; QlikTech QlikView Hot technology ; Tableau Hot technology
+* Customer relationship management CRM software — Oracle Eloqua; Sage ACT!; Salesforce software Hot technology ; Sugar CRM
+* Database user interface and query software — Amazon Web Services AWS software Hot technology ; Data entry software Hot technology ; Microsoft Access Hot technology ; Oracle software Hot technology
 * Education:
 * Wages:
 * Top industry:
