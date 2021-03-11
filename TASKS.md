@@ -152,6 +152,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+* As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 3 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
