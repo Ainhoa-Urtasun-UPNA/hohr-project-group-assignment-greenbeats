@@ -163,8 +163,11 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 * yit represents the firm's need for workers in occupation i, in this case, managers, engineers, and operators; and year t, this is, 2021.
 * xt represents a labor market indicator that changes over time. We will select in this case percentage of unemployment for each of the occupations.
 * oi equals 1 for occupation i; 0 otherwise. It is a dummy variable. 
-* 
-* As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 3 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
+* We have used Python to make the necessary computations so that the work is easier. After applying the formula:  [𝜷̂^ 𝜹̂^𝟏 𝜹̂^𝟐]= [X'X]^−𝟏𝑿′y where we have all the data, we obtain the estimated coefficients by applyting ordinary least squares (OLS) regression to available data. y is a column vector of dimension 9 that contains historical data on the demand for workers in each of the 3 occupations and in 3 different years. X is an 9 x 4 matrix that contains historical data on the labor market indicator x in each of the 3 occupations and in the three different years.  
+* Secondly, we plug the estimated coefficients into the linear model to make predictions on the firm's demand for workers using 𝐲̂ = X^[𝜷̂^𝜹̂^𝟏 𝜹̂^𝟐] where 𝐲̂ is a column vector of dimension 3 with the predicted need for workers in each of the 3 occupations;
+* and X^ is a 3x3 matrix that contains predicted data on unemployment. 
+
+* Finally, we have obtained the following results for the predicted firm's demand of workers. As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 3 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
