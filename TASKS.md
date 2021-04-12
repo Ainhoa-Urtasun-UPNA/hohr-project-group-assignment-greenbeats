@@ -142,14 +142,14 @@ These activities are mainly routine tasks.
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators your company will have in one year from now.
-*In order to forecast the firm's number of available workers with the given data and using Python, we will compute different matrixes. To keep it simple, the formula used is the following: a=MD^(-1)b
-Where:
+* In order to predict the firm's number of available workers with the given data and using Python, we will compute different matrixes. To keep it simple, the formula used is the following: a= MD^(-1)b
+where:
 * a = is a column vector with the number of workers expected to be next year in each occupation, this is, the result we want to get. 
 * M = is a square matrix with the number of workers that remain in the company. In the diagonal, the ones that remain in the same occupation after one year, this is, 5 managers, 10 engineers and 45 operators. And in the other positions the workers that have changed their occupation, this would be, 5 managers have changed to operators, and 2 engineers have changed to managers and other 5 to operators, the rest of the matrix would be 0 values. 
 * D is a diagonal matrix with the number of workers in each occupation last year, this is, 15 managers, 20 engineers and 50 operators. But we will use its inverse, and for this, these numbers would be the denominator of a 1/x division.
-* b = is a clumn vector with the number of workers in the present, this is, 7 managers, 20 engineers and 50 operators. 
+* b = is a column vector with the number of workers in the present, this is, 7 managers, 20 engineers and 50 operators. 
 
-* Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the demand of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 manager, 1 engineer and 2 operators.  
+* Making the necessary calculations with the platform Python we have been able to obtain the number of available workers for this present year. Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the demand of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 manager, 1 engineer and 2 operators.  
 ***
 
 ## Task 4
@@ -159,6 +159,11 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+* In order to forecast the firm's demand for workers, we have considered a linear model: 𝑦𝑖𝑡 = 𝛽𝑥𝑖𝑡 + 𝛿1𝑜1𝑡 + 𝛿2𝑜2𝑡 + 𝜀𝑖t where:
+* yit represents the firm's need for workers in occupation i, in this case, managers, engineers, and operators; and year t, this is, 2021.
+* xt represents a labor market indicator that changes over time. We will select in this case percentage of unemployment for each of the occupations.
+* oi equals 1 for occupation i; 0 otherwise. It is a dummy variable. 
+* 
 * As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 3 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
 
 ## Task 5
