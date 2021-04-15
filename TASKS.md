@@ -221,30 +221,28 @@ Salary, benefits and perks: €84109,50 annually.
 Occupation: ONET-SOC code and title: 17-2199.03
 Industry: 335311 - Power, Distribution, and Specialty Transformer Manufacturing
 
-* List of Tasks: 
+List of Tasks: 
 - Identify and recommend energy savings strategies to achieve more energy-efficient operation.
 - Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures. 
 - Monitor and analyze energy consumption. 
 - Monitor energy related design or construction issues, such as energy engineering and sustainable design. 
 
-* List of Skills: 
+List of Skills: 
 - Reading Comprehension 
 - Critical Thinking 
 - Active Listening 
 - Complex Problem Solving 
 - Monitoring 
 
-* Required credentials and years of experience
+Required credentials and years of experience
 Education: Bachelor's degree, Post-baccalaureate certificate, Master's degree
 Years of experience: 3 years
 
-* Job type: Full-time
+Job type: Full-time
+Location: Pamplona
+Salary, benefits and perks: €118670 annual
 
-* Location: Pamplona
-
-* Salary, benefits and perks: €118670 annual
-
-* Job openings: 11
+Job openings: 11
 Predicted shortage: 11
 Automation risk: 3%
 Our company has decided to post 11 vacancies for engineers since this is the forecasted shortage on this job, as well as due to the fact that the automation risk is very low. 
