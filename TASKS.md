@@ -195,6 +195,33 @@ Salary, benefits and perks: €84109,50 annually.
 
 ### Job posting for Engineers:
 ### Job posting for Operators:
+Job title: Engine and other machine operators
+Occupation SOC (label and code): 51-2031.00
+Industry (NAICS title and code): 335311 - Power, Distribution, and Specialty Transformer Manufacturing. 
+List of tasks:
+Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations. 
+Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications
+Position or align components for assembly, manually or using hoists
+Set and verify parts clearances
+List of skills: 
+Operation Monitoring
+Quality Control Analysis
+Reading Comprehension 
+Active Listening 
+Critical Thinking
+Required credentials and years of experience: 
+High school diploma or equivalent
+Post-secondary certificate
+Years of experience: 1 year
+Job type: Part-time
+Location: Pamplona
+Salary, benefits and perks: 38,100€/year
+Job vacancies: 2
+Automation risk: 82%
+
+
+
+
 ***
 
 ## Task 6
