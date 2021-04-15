@@ -150,7 +150,7 @@ where:
 * D is a diagonal matrix with the number of workers in each occupation last year, this is, 15 managers, 20 engineers and 50 operators. But we will use its inverse, and for this, these numbers would be the denominator of a 1/x division.
 * b = is a column vector with the number of workers in the present, this is, 1 manager, 1 engineer and 2 operators. 
 ***
-Making the necessary calculations with the platform Python we have been able to obtain the number of available workers for this present year. Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the demand of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 manager, 1 engineer and 2 operators.
+Making the necessary calculations with the platform Python we have been able to obtain the number of available workers for this present year. Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the availability of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 engineer and 2 operators. On the other hand, there will not be any available managers. 
 ***
 
 ## Task 4
@@ -168,7 +168,7 @@ We have used Python to make the necessary computations so that the work is easie
 
 Secondly, we plug the estimated coefficients into the linear model to make predictions on the firm's demand for workers using 𝐲̂ = X^[𝜷̂^𝜹̂^𝟏 𝜹̂^𝟐] where 𝐲̂ is a column vector of dimension 3 with the predicted need for workers in each of the 3 occupations; and X^ is a 3x3 matrix that contains predicted data on unemployment. 
 
-Finally, we have obtained the following results for the predicted firm's demand of workers. As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 3 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
+Finally, we have obtained the following results for the predicted firm's demand of workers. As with the prediction of available workers these numbers represent people, it is convinient to express them as integers: we will need 4 managers, 12 engineers and 7 operators in December 2021. Finally, compare the predicted available workers with the predicted need of workers to detect mismatches. A shortage of 4 managers, 11 engineers and 5 operators can be expected. Therefore, we will carry out an upsizing strategy. We consider hiring to be the best option since many workers are needed.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
