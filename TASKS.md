@@ -71,76 +71,100 @@ Is this job cognitive? Your judgment (0-10): 8
 * Business intelligence and data analysis software — IBM Cognos Impromptu Hot technology ; Oracle Business Intelligence Enterprise Edition Hot technology ; QlikTech QlikView Hot technology ; Tableau Hot technology
 * Customer relationship management CRM software — Oracle Eloqua; Sage ACT!; Salesforce software Hot technology ; Sugar CRM
 * Database user interface and query software — Amazon Web Services AWS software Hot technology ; Data entry software Hot technology ; Microsoft Access Hot technology ; Oracle software Hot technology
-* Education:
+*
+Education: 
 * Bachelor's degree
 * Some college, no degree
 * High school diploma or equivalent
-* Wages: Median wages (2019) → $48.45 hourly, $100,780 annual
+
+Wages: Median wages (2019) → $48.45 hourly, $100,780 annual
 * Top industry:
 * Retail Trade (12% employed in this sector)
 * Professional, Scientific, and Technical Services
+
 ### Engineers
-* ONET-SOC code and title: 17-2199.03 - Energy Engineers, Except Wind and Solar.
-* 5 most important tasks they carry out (provide the importance score, in Details):
+ONET-SOC code and title: 17-2199.03 - Energy Engineers, Except Wind and Solar.
+
+5 most important tasks they carry out (provide the importance score, in Details):
+
 * Identify and recommend energy savings strategies to achieve more energy-efficient operation. Score: 87
 * Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures. Score: 83
 * Monitor and analyze energy consumption. Score: 79
 * Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design. Score: 79
 * Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings. Score: 75
-* Is this job routine? Your judgment (0-10): 3
+
+Is this job routine? Your judgment (0-10): 3
 * We consider engineers to have less job routine than managers since they have to develop new designs and projects. Their job may differ each day depending on the progress and objectives set. 
-* Is this job cognitive? Your judgment (0-10): 10
+
+Is this job cognitive? Your judgment (0-10): 10
 * Engineers need high levels of education to perform their jobs, and the ability to solve complex problems to develop innovative generators, by making use of critical and logical thinking. They need to evaluate alternatives. 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+
+5 most important skills they require to possess (provide the importance score, in Details):
+
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Score: 78
 * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 75
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 72
 * Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Score: 72
 * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. Score: 72
-* 5 technology skills
+
+5 technology skills
+
 * Analytical or scientific software — Architectural Energy Corporation ENFORMA Building Diagnostics; Stellar Processes EZ Sim; The MathWorks MATLAB; Trane System Analyzer
 * Computer aided design CAD software — Autodesk AutoCAD; Home Energy Efficient Design HEED
 * Graphics or photo imaging software — Microsoft Visio
 * Office suite software — Microsoft Office 
 * Spreadsheet software — Microsoft Excel 
-* Education:
+
+Education:
 * Bachelor's degree
 * Post-baccalaureate certificate
 * Master's degree
-* Wages: Median wage (2019) → $47.62 hourly, $99,040 annual
+
+Wages: Median wage (2019) → $47.62 hourly, $99,040 annual
 * Top industry:
 * Professional, Scientific, and Technical Services
 * Manufacturing
 * Government 
+
 ### Operators
-* ONET-SOC code and title: 51-2031.00 - Engine and Other Machine 
-* 5 most important tasks they carry out (provide the importance score, in Details):
+ONET-SOC code and title: 51-2031.00 - Engine and Other Machine 
+
+5 most important tasks they carry out (provide the importance score, in Details):
+
 * Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations. Score: 91
 * Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications. Score: 87
 * Position or align components for assembly, manually or using hoists. Score: 86
 * Set and verify parts clearances. Score: 85
 * Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers. Score: 85
-* Is this job routine? Your judgment (0-10):9
+
+Is this job routine? Your judgment (0-10):9
 * The main task for operators is to position or align components for assembly, which is completely routine, since it does not involve the need to face new situations or decision taking. They need to use their strength and labour. 
-* Is this job cognitive? Your judgment (0-10):3
+
+Is this job cognitive? Your judgment (0-10):3
 * Operators need mainly to use their knowledge of mechanics and assembling. Their job is more about physical effort, using logic and repetition. 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+
+5 most important skills they require to possess (provide the importance score, in Details):
+
 * Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. Score: Score: 53
 * Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. Score:  Score: 53   
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Score: Score: 50
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Score: 50
 * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 50   	
-* 5 technology skills:
+
+5 technology skills:
+
 * Computer aided design CAD software Hot technology — Computer aided design and drafting CADD software; Dassault Systemes SOLIDWORKS Hot technologySee more occupations related to this technology.
 * Database user interface and query software — Data entry software Hot technologySee more occupations related to this technology.
 * Office suite software — Microsoft Office Hot technologySee more occupations related to this technology.
 * Spreadsheet software — Microsoft Excel Hot technologySee more occupations related to this technology.
 * Word processing software — Microsoft Word Hot technology
-* Education:
+
+Education:
 * High school diploma or equivalent
 * Post-secondary certificate
 * Less than high school diploma
-* Wages: Median wages (2019) → $21.95 hourly, $45,660 annual
+
+Wages: Median wages (2019) → $21.95 hourly, $45,660 annual
 * Top industry: Manufacturing
 ***
 
