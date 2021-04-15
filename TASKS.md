@@ -71,7 +71,7 @@ Is this job cognitive? Your judgment (0-10): 8
 * Business intelligence and data analysis software — IBM Cognos Impromptu Hot technology ; Oracle Business Intelligence Enterprise Edition Hot technology ; QlikTech QlikView Hot technology ; Tableau Hot technology
 * Customer relationship management CRM software — Oracle Eloqua; Sage ACT!; Salesforce software Hot technology ; Sugar CRM
 * Database user interface and query software — Amazon Web Services AWS software Hot technology ; Data entry software Hot technology ; Microsoft Access Hot technology ; Oracle software Hot technology
-*
+
 Education: 
 * Bachelor's degree
 * Some college, no degree
@@ -81,7 +81,7 @@ Wages: Median wages (2019) → $48.45 hourly, $100,780 annual
 * Top industry:
 * Retail Trade (12% employed in this sector)
 * Professional, Scientific, and Technical Services
-
+***
 ### Engineers
 ONET-SOC code and title: 17-2199.03 - Energy Engineers, Except Wind and Solar.
 
@@ -125,7 +125,7 @@ Wages: Median wage (2019) → $47.62 hourly, $99,040 annual
 * Professional, Scientific, and Technical Services
 * Manufacturing
 * Government 
-
+***
 ### Operators
 ONET-SOC code and title: 51-2031.00 - Engine and Other Machine 
 
