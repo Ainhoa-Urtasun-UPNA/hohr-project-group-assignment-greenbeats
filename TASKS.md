@@ -42,6 +42,7 @@ List of your company's support activities:
 ***
 ### Managers
 ONET-SOC code and title: 11-1021.00 - General and Operations Managers
+
 5 most important tasks they carry out (provide the importance score, in Details):
 * Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score: 77
 * Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score: 76
