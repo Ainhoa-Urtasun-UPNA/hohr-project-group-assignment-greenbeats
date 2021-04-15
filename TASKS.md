@@ -20,18 +20,18 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 *There are 803 businesses in our industry.
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
-* ENGINEERING: 
+ENGINEERING ACTIVITIES: 
 - Research and development of innovative transformators from kinetic energy into electric energy, which can be implemented into gym equipment. This energy will be provided to other companies that support sustainable energy sources for carrying on their own primary activities.  
 - Efficient and user friendly design of these sustainable gym equipment and the generators. Some of these generators’ components will be manufactured by the innovative process of 3D printing, this is why a team will also devote their time to research how to increase the implementation of these technologies in our production process . 
 - We will have different teams creating prototypes of the aforementioned generators and equipment to see which ones better meet our goals and function more efficiently, for later patenting them. 
 
-* OPERATIONS ACTIVITIES:
+OPERATIONS ACTIVITIES:
 - Some of our operators will be in charge of obtaining and handling the inventory needed for later assembling the gym machines and generators, since not all our supplies will come from our own 3D printing. 
 - There will be two independent assembly lines for manufacturing the generators and the gym equipment which, in the end, will be joined to create the final product: sustainable fitness equipment. 
 - Afterwards, all of our products will be subject to strict quality controls. 
 These activities are mainly routine tasks. 
 ***
-* List of your company's support activities:
+List of your company's support activities:
 * GENERAL MANAGEMENT: In charge of the general functioning of the company, and supervising the performance and implementation of the different engineering and operation activities, as well as the different departments of the company. 
 * HUMAN RESOURCE MANAGEMENT: Department in charge of the functions and practices relative to the organization's employees. It includes job analysis and design, staffing, recruitment of innovative engineers and devoted operators, performance evaluation and compensation to motivate them and increase their productivity. Moreover, they will train our employees as well as to create different company events to create a feeling of being part of our company. 
 * FINANCE: Department in charge of the accountability of our business. 
@@ -41,25 +41,30 @@ These activities are mainly routine tasks.
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
-* 11-1021.00 - General and Operations Managers
-* 5 most important tasks they carry out (provide the importance score, in Details):
+ONET-SOC code and title: 11-1021.00 - General and Operations Managers
+5 most important tasks they carry out (provide the importance score, in Details):
 * Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score: 77
 * Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score: 76
 * Direct administrative activities directly related to making products or providing services. Score: 75
 * Prepare staff work schedules and assign specific duties. Score: 73
 * Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score: 72
-* Is this job routine? Your judgment (0-10): 4
+
+Is this job routine? Your judgment (0-10): 4
 * We consider that a manager needs to face different challenges everyday depending on the company's situation, since they direct and coordinate the business activities. However, there are some tasks which may be classified as routine such as reviewing financial statements or sales reports. Staff work schedules may be changed every week depending on the company's performance and needs.
-* Is this job cognitive? Your judgment (0-10): 8
+
+Is this job cognitive? Your judgment (0-10): 8
 * Managers need a previous high, specific education to be able to perform their tasks, whether in management, finance or human resources. Moreover, knowledge on the company’s main activity is required. Furthermore, a good manager will have to learn new methods and the daily functioning of the certain company he works at, in order to improve his management skills. For all these reasons, social perceptiveness is required, as well as judgement and decision-making, skills and tasks that require cognitive thinking. 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+
+5 most important skills they require to possess (provide the importance score, in Details):
+
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill. Score: 75   	
 * Coordination — Adjusting actions in relation to others' actions. Score: 75  
 * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. Score: 75
 * Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill. Score: 75   	
 * Speaking — Talking to others to convey information effectively. Score: 75
-* 5 technology skills:
+
+5 technology skills:
+
 * Accounting software — Fund accounting software; Intuit QuickBooks Hot technology ; Sage 50 Accounting; Tax softwareSee more occupations related to this technology.
 * Analytical or scientific software — IBM SPSS Statistics Hot technology ; Minitab Hot technology ; SAS Hot technology ; The MathWorks MATLAB Hot technology
 * Business intelligence and data analysis software — IBM Cognos Impromptu Hot technology ; Oracle Business Intelligence Enterprise Edition Hot technology ; QlikTech QlikView Hot technology ; Tableau Hot technology
