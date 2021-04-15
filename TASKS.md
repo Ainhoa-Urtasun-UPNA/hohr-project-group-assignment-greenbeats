@@ -148,9 +148,9 @@ where:
 * a = is a column vector with the number of workers expected to be next year in each occupation, this is, the result we want to get. 
 * M = is a square matrix with the number of workers that remain in the company. In the diagonal, the ones that remain in the same occupation after one year, this is, 5 managers, 10 engineers and 45 operators. And in the other positions the workers that have changed their occupation, this would be, 5 managers have changed to operators, and 2 engineers have changed to managers and other 5 to operators, the rest of the matrix would be 0 values. 
 * D is a diagonal matrix with the number of workers in each occupation last year, this is, 15 managers, 20 engineers and 50 operators. But we will use its inverse, and for this, these numbers would be the denominator of a 1/x division.
-* b = is a column vector with the number of workers in the present, this is, 7 managers, 20 engineers and 50 operators. 
+* b = is a column vector with the number of workers in the present, this is, 1 managers, 1 engineers and 2 operators. 
 ***
-Making the necessary calculations with the platform Python we have been able to obtain the number of available workers for this present year. Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the demand of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 manager, 1 engineer and 2 operators.  
+Making the necessary calculations with the platform Python we have been able to obtain the number of available workers for this present year. Taking into account that our company started this year with 1 manager, 1 engineer and 2 operators; as well as considering the historical data from another company to estimate the demand of workers for this year, we have obtained that the expected number of available workers at the end of 2021 (integer) will be 1 manager, 1 engineer and 2 operators.
 ***
 
 ## Task 4
