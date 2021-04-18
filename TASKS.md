@@ -264,31 +264,36 @@ Our company has decided to post 11 vacancies for engineers since this is the for
 
 
 
-### Job posting for Operators: ENGINE AND OTHER MACHINE OPERATORS
-Occupation SOC (label and code): 51-2031.00
-Industry (NAICS title and code): 335311 - Power, Distribution, and Specialty Transformer Manufacturing. 
+### Job posting for Operators: 
+Occupation: ONEC SOC and title : 51-2031.00 engine and other machine operators
+Industry: 335311 - Power, Distribution, and Specialty Transformer Manufacturing. 
+
 List of tasks:
-Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations. 
-Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications
-Position or align components for assembly, manually or using hoists
-Set and verify parts clearances
+- Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations. 
+- Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications
+- Position or align components for assembly, manually or using hoists
+- Set and verify parts clearances
+
 List of skills: 
-Operation Monitoring
-Quality Control Analysis
-Reading Comprehension 
-Active Listening 
-Critical Thinking
-Required credentials and years of experience: 
-High school diploma or equivalent
-Post-secondary certificate
+- Operation Monitoring
+- Quality Control Analysis
+- Reading Comprehension 
+- Active Listening 
+- Critical Thinking
+
+Required credentials: High school diploma or equivalent. Post-secondary certificate
 Years of experience: 1 year
+
 Job type: Part-time
 Location: Pamplona
-Salary, benefits and perks: 38,100€/year
-Job vacancies: 2
+Salary: 38,100€/year
+Benefits: transportation costs for commuying to and from work each day and medical insurance
+Perks: Gym membership and paid birthdays-off
+
+Job openings: 2
+Predicted shortage: 5
 Automation risk: 82%
-
-
+Our company has decided to post 5 vacancies for operators since even if the forecasted shortage is of 5 workers, the automation risk is very high, meaning that the potential for automation to replace operators is very high. 
 
 
 ***
