@@ -206,16 +206,29 @@ Finally, we have obtained the following results for the predicted firm's demand 
 ### Job posting for Managers:
 11-1021.00 - General and Operations Managers
 335311 - Power, Distribution, and Specialty Transformer Manufacturing
+
 Required tasks: 
 Review financial statements or activity reports, direct and coordinate business activities related with production, as well as direct administrative activities. Moreover, prepare staff work schedules or assign specific duties and also monitor suppliers. 
+
 Required skills: 
 Active Listening , Coordination , Monitoring, Social Perceptiveness , Speaking
+
 Required credentials: bachelor’s degree, some college (no degree) or high school diploma or equivalent. 
+
 Years of experience required: 5  years 
+
 Type of job: full-time 
+
 Location: Pamplona 
-Salary, benefits and perks: €84109,50 annually. 
-(Automation risk: 16%)
+
+Salary: €84109,50 annually
+Benefits:  savings for retirement and health insurance. 
+Perks: corporate discounts and productivity incentives
+
+Job openings: 4
+Predicted shortage: 4
+Automation risk: 16%
+Our company has decided to post 11 vacancies for managers since this is the forecasted shortage on this job, as well as due to the fact that the automation risk is low. 
 
 ### Job posting for Engineers: ENERGY ENGINEER
 Occupation: ONET-SOC code and title: 17-2199.03
