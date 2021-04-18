@@ -234,13 +234,14 @@ List of Skills:
 - Complex Problem Solving 
 - Monitoring 
 
-Required credentials and years of experience
-Education: Bachelor's degree, Post-baccalaureate certificate, Master's degree
+Required credentials : Bachelor's degree amd Master's degree
 Years of experience: 3 years
 
 Job type: Full-time
 Location: Pamplona
-Salary, benefits and perks: €118670 annual
+Salary: €118,670 annual
+Benefits: transportation costs for commuying and health and mental health insurance
+Perks: cell phone and all at-home necessary equipment for teleworking when needed
 
 Job openings: 11
 Predicted shortage: 11
