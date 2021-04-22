@@ -203,7 +203,7 @@ Finally, we have obtained the following results for the predicted firm's demand 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
-### Job posting for Managers:
+### Job posting for Managers: GENERAL AND OPERATIONS MANAGER
 11-1021.00 - General and Operations Managers
 335311 - Power, Distribution, and Specialty Transformer Manufacturing
 
@@ -228,7 +228,7 @@ Perks: corporate discounts and productivity incentives
 Job openings: 4
 Predicted shortage: 4
 Automation risk: 16%
-Our company has decided to post 11 vacancies for managers since this is the forecasted shortage on this job, as well as due to the fact that the automation risk is low. 
+Our company has decided to publish 4 job postings to cover the job vacancies our company needs since this is the forecasted shortage on this job. We will make 4 job postings due to the fact that the automation risk is relatively low. 
 
 ### Job posting for Engineers: ENERGY ENGINEER
 Occupation: ONET-SOC code and title: 17-2199.03
@@ -259,12 +259,9 @@ Perks: cell phone and all at-home necessary equipment for teleworking when neede
 Job openings: 11
 Predicted shortage: 11
 Automation risk: 3%
-Our company has decided to post 11 vacancies for engineers since this is the forecasted shortage on this job, as well as due to the fact that the automation risk is very low. 
+Our company has decided to publish 11 job postings to cover the job vacancies our company needs since this is the forecasted shortage on this job. We will make 11 job postings due to the fact that the automation risk is low. 
 
-
-
-
-### Job posting for Operators: 
+### Job posting for Operators: ENGINE AND OTHER MACHINE OPERATORS
 Occupation: ONEC SOC and title : 51-2031.00 engine and other machine operators
 Industry: 335311 - Power, Distribution, and Specialty Transformer Manufacturing. 
 
@@ -293,7 +290,7 @@ Perks: Gym membership and paid birthdays-off
 Job openings: 2
 Predicted shortage: 5
 Automation risk: 82%
-Our company has decided to post 5 vacancies for operators since even if the forecasted shortage is of 5 workers, the automation risk is very high, meaning that the potential for automation to replace operators is very high. 
+Our company has decided to publish 2 job postings to cover the job vacancies our company needs since this is the forecasted shortage on this job. We will make 2 job postings due to the fact that the automation risk is extremely high. 
 
 
 ***
