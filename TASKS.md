@@ -239,6 +239,7 @@ List of Tasks:
 - Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures. 
 - Monitor and analyze energy consumption. 
 - Monitor energy related design or construction issues, such as energy engineering and sustainable design. 
+- Research and development of these transformators' components using the new techniques of 3D Printing. 
 
 List of Skills: 
 - Reading Comprehension 
@@ -246,6 +247,7 @@ List of Skills:
 - Active Listening 
 - Complex Problem Solving 
 - Monitoring 
+- Knowledge about 3D Printing
 
 Required credentials : Bachelor's degree amd Master's degree
 Years of experience: 3 years
