@@ -247,7 +247,7 @@ List of Skills:
 - Active Listening 
 - Complex Problem Solving 
 - Monitoring 
-- Knowledge about 3D Printing
+- Knowledge about 3D Printing and Additive Manufacturing
 
 Required credentials : Bachelor's degree amd Master's degree
 Years of experience: 3 years
