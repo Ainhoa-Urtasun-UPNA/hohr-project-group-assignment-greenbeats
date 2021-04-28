@@ -225,10 +225,10 @@ Salary: €84109,50 annually
 Benefits:  savings for retirement and health insurance. 
 Perks: corporate discounts and productivity incentives
 
-Job openings: 4
+Job openings: 2 
 Predicted shortage: 4
 Automation risk: 16%
-Our company has decided to publish 4 job postings to cover the job vacancies our company needs since this is the forecasted shortage on this job. We will make 4 job postings due to the fact that the automation risk is relatively low. 
+Our company has decided to publish 2 job postings to cover half of the job vacancies our company needs since we believe there is not much need in hiring 4 managers for developing the same tasks, which are supervising and organising the company. We will make 4 job postings due to the fact that the automation risk is relatively low. 
 
 ### Job posting for Engineers: ENERGY ENGINEER
 Occupation: ONET-SOC code and title: 17-2199.03
