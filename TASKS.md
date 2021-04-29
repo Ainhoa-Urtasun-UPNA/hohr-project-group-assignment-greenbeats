@@ -298,6 +298,6 @@ Our company has decided to publish 2 job postings to cover the job vacancies our
 ***
 
 ## Task 6
-The website for Grean Beats has been created with the gh pages tool of Git Hub, and with a poster created in Canvas. It is available here 
+The website for Grean Beats has been created with the gh pages tool of Git Hub, and with a poster created in Canvas. It is available [here](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-greenbeats/blob/gh-pages/index.md) 
 ***
 
