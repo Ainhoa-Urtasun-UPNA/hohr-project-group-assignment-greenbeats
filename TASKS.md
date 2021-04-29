@@ -298,6 +298,6 @@ Our company has decided to publish 2 job postings to cover the job vacancies our
 ***
 
 ## Task 6
-* Objective: Create a website for your project
+![1.png](1.png)
 ***
-[GitHub Pages](https://pages.github.com/)
+
